@@ -1,0 +1,15 @@
+D:\Учебное IT\GB\!Пакет Разработчик\1 четверть\1.6 Знакомство с языками программирования (семинары)\C_Sharp_Seminar\Work002\bin\Debug\net6.0\Work002.exe
+D:\Учебное IT\GB\!Пакет Разработчик\1 четверть\1.6 Знакомство с языками программирования (семинары)\C_Sharp_Seminar\Work002\bin\Debug\net6.0\Work002.deps.json
+D:\Учебное IT\GB\!Пакет Разработчик\1 четверть\1.6 Знакомство с языками программирования (семинары)\C_Sharp_Seminar\Work002\bin\Debug\net6.0\Work002.runtimeconfig.json
+D:\Учебное IT\GB\!Пакет Разработчик\1 четверть\1.6 Знакомство с языками программирования (семинары)\C_Sharp_Seminar\Work002\bin\Debug\net6.0\Work002.dll
+D:\Учебное IT\GB\!Пакет Разработчик\1 четверть\1.6 Знакомство с языками программирования (семинары)\C_Sharp_Seminar\Work002\bin\Debug\net6.0\Work002.pdb
+D:\Учебное IT\GB\!Пакет Разработчик\1 четверть\1.6 Знакомство с языками программирования (семинары)\C_Sharp_Seminar\Work002\obj\Debug\net6.0\Work002.csproj.AssemblyReference.cache
+D:\Учебное IT\GB\!Пакет Разработчик\1 четверть\1.6 Знакомство с языками программирования (семинары)\C_Sharp_Seminar\Work002\obj\Debug\net6.0\Work002.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учебное IT\GB\!Пакет Разработчик\1 четверть\1.6 Знакомство с языками программирования (семинары)\C_Sharp_Seminar\Work002\obj\Debug\net6.0\Work002.AssemblyInfoInputs.cache
+D:\Учебное IT\GB\!Пакет Разработчик\1 четверть\1.6 Знакомство с языками программирования (семинары)\C_Sharp_Seminar\Work002\obj\Debug\net6.0\Work002.AssemblyInfo.cs
+D:\Учебное IT\GB\!Пакет Разработчик\1 четверть\1.6 Знакомство с языками программирования (семинары)\C_Sharp_Seminar\Work002\obj\Debug\net6.0\Work002.csproj.CoreCompileInputs.cache
+D:\Учебное IT\GB\!Пакет Разработчик\1 четверть\1.6 Знакомство с языками программирования (семинары)\C_Sharp_Seminar\Work002\obj\Debug\net6.0\Work002.dll
+D:\Учебное IT\GB\!Пакет Разработчик\1 четверть\1.6 Знакомство с языками программирования (семинары)\C_Sharp_Seminar\Work002\obj\Debug\net6.0\refint\Work002.dll
+D:\Учебное IT\GB\!Пакет Разработчик\1 четверть\1.6 Знакомство с языками программирования (семинары)\C_Sharp_Seminar\Work002\obj\Debug\net6.0\Work002.pdb
+D:\Учебное IT\GB\!Пакет Разработчик\1 четверть\1.6 Знакомство с языками программирования (семинары)\C_Sharp_Seminar\Work002\obj\Debug\net6.0\Work002.genruntimeconfig.cache
+D:\Учебное IT\GB\!Пакет Разработчик\1 четверть\1.6 Знакомство с языками программирования (семинары)\C_Sharp_Seminar\Work002\obj\Debug\net6.0\ref\Work002.dll
