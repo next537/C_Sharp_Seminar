@@ -1,5 +1,5 @@
 ﻿Console.WriteLine("Введите число а");
-int a = int.Parse(Console.ReadLine());
+int a = int.Parse(Console.ReadLine() ?? "0");
 Console.WriteLine("числовой ряд:");
 int b = (a * -1);
 if (a > 0)

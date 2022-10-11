@@ -1,5 +1,5 @@
 ﻿Console.Write("Введите число ");
-int a = int.Parse(Console.ReadLine());
+int a = int.Parse(Console.ReadLine() ?? "0");
 
 if (a % 2 == 1)
 {

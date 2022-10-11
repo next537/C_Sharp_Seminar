@@ -1,8 +1,8 @@
 ﻿Console.Write("Введите первое число ");
-int a = int.Parse(Console.ReadLine());
+int a = int.Parse(Console.ReadLine() ?? "0");
 
 Console.Write("Введите второе число ");
-int b = int.Parse(Console.ReadLine());
+int b = int.Parse(Console.ReadLine() ?? "0");
 
 int c = a % b;
 

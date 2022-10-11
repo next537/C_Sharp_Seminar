@@ -1,7 +1,7 @@
 ﻿int a = 1;
 
 Console.Write("Введите второе число: ");
-int b = int.Parse(Console.ReadLine());
+int b = int.Parse(Console.ReadLine() ?? "0");
 
 for (int n = a; n <= b; n = n + 1)
 {
