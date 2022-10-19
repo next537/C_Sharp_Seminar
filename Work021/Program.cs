@@ -6,7 +6,7 @@ while (count <= x)
 {
     double res = Math.Pow(y, 3);
     if (res % 2 == 0)
-        Console.WriteLine($"{res} является кубом {y}");
+        Console.WriteLine($"куб четного числа {y} = {res}");
     y++;
     count++;
 }
