@@ -13,5 +13,5 @@ for (int j = 0; j < array.Length; j++)
 }
 
 Console.WriteLine();
-Console.Write("Сумма числе на нечетных позициях = ");
+Console.Write("Сумма чисел на нечетных позициях = ");
 Console.Write(count);
