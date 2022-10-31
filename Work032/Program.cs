@@ -1,4 +1,6 @@
-﻿void FillArray(int[,] array)
+﻿//Показать двумерный массив размером m×n заполненный вещественными числами
+
+void FillArray(int[,] array)
 {
     for (int i = 0; i < array.GetLength(0); i++)
     {
@@ -21,10 +23,10 @@ void PrintArray(int[,] array)
     }
 }
 
-Console.WriteLine("Введите количество столбцов(n): ");
-int n = int.Parse(Console.ReadLine() ?? "0");
 Console.WriteLine("Введите количество строк(m): ");
 int m = int.Parse(Console.ReadLine() ?? "0");
+Console.WriteLine("Введите количество столбцов(n): ");
+int n = int.Parse(Console.ReadLine() ?? "0");
 
 int[,] array = new int[m, n];
 
