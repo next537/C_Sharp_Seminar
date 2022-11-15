@@ -7,10 +7,4 @@ void PrintNumber(int m, int n)
     Console.Write(n + " ");
 }
 
-Console.WriteLine("Введите число M ");
-int m = int.Parse(Console.ReadLine() ?? "0");
-
-Console.WriteLine("Введите число N ");
-int n = int.Parse(Console.ReadLine() ?? "0");
-
-PrintNumber(m, n);
+PrintNumber(10, 50);
